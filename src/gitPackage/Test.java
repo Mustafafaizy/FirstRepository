@@ -4,7 +4,7 @@ public class Test {
 
 	public void testMethod() {
 		// This is git hub lecture.
-		// this line was edited in git hub
+		// this line was edited (added) in git hub
 	}
 	
 	
